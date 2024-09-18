@@ -124,7 +124,7 @@ main a:hover {
     color: var(--cor4);
 }
 main > img {
-    width: 100%;
+    width: 80%;
 }
 main img.pequena {
     max-width: 350px;
